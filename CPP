@@ -31,5 +31,14 @@ cout<<" \t2.Books"<<endl;
 cout<<" \t3.Beauty"<<endl;
 cout<<"\t4.Smartphones"<<endl;
 cout<<"\t5.Fashion"<<endl;
+getch();
+cout<<"\n\tPress 1 for Grocery"<<endl;
+cout<<"\tPress 2 for Books"<<endl;
+cout<<"\tPress 3 for Beauty"<<endl;
+cout<<"\tPress 4 for Smartphones"<<endl;
+cout<<"\tPress 5 for Fashion"<<endl;
+getch();
+cout<<"\n\tEnter your choice of category to view the products:"<<endl;
+cin>>choice;
 
 }
